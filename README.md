@@ -1,2 +1,2 @@
 # Game-Of-Life
-Game Of Life version written in C
+Game Of Life version wrote in C
